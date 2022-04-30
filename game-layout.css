@@ -1,0 +1,13 @@
+body, html {
+  margin: 0;
+  background-color: black;
+}
+
+#gameArea {
+  position: absolute;
+}
+
+#mycanvas {
+  width: 100%;
+  height: 100%;
+}
